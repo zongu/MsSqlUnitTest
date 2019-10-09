@@ -2,4 +2,9 @@
 # 這個 .gitignore 檔案由 Microsoft(R) Visual Studio 自動建立。
 ################################################################################
 
-/.vs/MsSqlUnitTest/v15
+.vs
+obj
+bin
+packages
+匯入結構描述記錄
+*.user

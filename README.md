@@ -46,7 +46,7 @@ GRANT EXECUTE
 ![](Img/010.jpg)
 ![](Img/011.jpg)
 
-## 6. 利用LinqPad取得強行別<br>
+## 6. 利用LinqPad取得強型別<br>
 ![](Img/012.jpg)
 
 ## 7. 建立類別<br>
